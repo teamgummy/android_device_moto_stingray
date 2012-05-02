@@ -15,7 +15,7 @@
 # limitations under the License.
 
 DEVICE=stingray
-MANUFACTURER=motorola
+MANUFACTURER=moto
 
 mkdir -p ../../../vendor/$MANUFACTURER/$DEVICE
 
